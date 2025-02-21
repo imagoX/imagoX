@@ -193,8 +193,7 @@
 
 ###
 
-<p align="left">Spotify:</p>
-
+<h3 align="left">Spotify: </h3>
 ###
 
 <div align="center">
