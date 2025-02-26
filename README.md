@@ -43,7 +43,7 @@
 
 ###
 
-<p align="left">I'm imago from Iran<br><br>- 🔭 I’m working as a back-end developer and an AI engineer.<br>- 📚 I'm currently learning CodeIgniter and R.<br>- ⚡ In my free time I make music.</p>
+<p align="left">I'm imago from Iran<br><br>- 🔭 I’m working as a back-end developer and an AI and Data Scientist.<br>- 📚 I'm currently learning CodeIgniter and R.<br>- ⚡ In my free time I make music.</p>
 
 ###
 
